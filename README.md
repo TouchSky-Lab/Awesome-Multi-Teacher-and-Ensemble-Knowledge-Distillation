@@ -1,5 +1,5 @@
 # Multi-teacher KD
-## Multiple Heterogenous Teacher
+## Multi-Teacher KD
 - Learning from Multiple Teacher Networks. You, Shan et al. KDD 2017
 - Learning with single-teacher multi-student. You, Shan et al. AAAI 2018
 - Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NeurIPS 2018
@@ -12,7 +12,6 @@
 - Collaborative learning for deep neural networks. Song, Guocong and Chai, Wei. NeurIPS 2018
 - Data Distillation: Towards Omni-Supervised Learning. Radosavovic, Ilija et al. CVPR 2018
 - Multilingual Neural Machine Translation with Knowledge Distillation. ICLR 2019
-- Unifying Heterogeneous Classifiers with Distillation. Vongkulbhisal et al. CVPR 2019
 - Distilled Person Re-Identification: Towards a More Scalable System. Wu, Ancong et al. CVPR 2019
 - Diversity with Cooperation: Ensemble Methods for Few-Shot Classification. Dvornik, Nikita et al. ICCV 2019
 - Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System. Yang, Ze et al. WSDM 2020
@@ -31,7 +30,6 @@
 - Knowledge Distillation for Multi-task Learning. Li, WeiHong & Bilen, Hakan. arXiv:2007.06889 [project]
 - Adaptive Multi-Teacher Multi-level Knowledge Distillation. Liu, Yuang et al. Neurocomputing 2020 [code]
 - Online Ensemble Model Compression using Knowledge Distillation. ECCV 2020
-- Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification. ECCV 2020
 - Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge. He, Chaoyang et al. arXiv:2007.14513
 - Densely Guided Knowledge Distillation using Multiple Teacher Assistants. Son, Wonchul et l. arXiv:2009.08825
 - ProxylessKD: Direct Knowledge Distillation with Inherited Classifier for Face Recognition. Shi, Weidong et al. arXiv:2011.00265
@@ -41,6 +39,16 @@
 - Efficient Conditional GAN Transfer with Knowledge Propagation across Classes. Shahbaziet al. CVPR 2021 [code]
 - Knowledge Evolution in Neural Networks. Taha, Ahmed et al. CVPR 2021 [code]
 - Distilling a Powerful Student Model via Online Knowledge Distillation. Li, Shaojie et al. arXiv:2103.14473
+
+# Multiple Heterogenous Teacher
+- Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classication
+- Customizing Student Networks From Heterogeneous Teachers via Adaptive Knowledge Amalgamation
+- Cross-domain Knowledge Distillation for Retrieval-based Question Answering Systems
+- Heterogeneous Knowledge Distillation using Information Flow Modeling
+- Heterogeneous Knowledge Transfer via Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning
+- Strategies for Teaching Students with Heterogeneous Prior Knowledge
+- Transfer Heterogeneous Knowledge Among Peer-to-Peer Teammates: A Model Distillation Approach
+- Unifying Heterogeneous Classifiers with Distillation. Vongkulbhisal et al. CVPR 2019
 
 # Ensemble KD
 - Class-Incremental Instance Segmentation via Multi‐Teacher Networks. Gu, Yanan et al. AAAI 2021
